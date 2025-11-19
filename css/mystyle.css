@@ -11,16 +11,16 @@ body{
   background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
 }
 .navbar{
-  background-color: #3d008c!important;
-background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+  background-color: #0b0b1f!important;
+background-image: url("https://www.transparenttextures.com/patterns/escheresque.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */ !important;
 }
 .nav-item:nth-child(even){
-  background-color:	#A52A2A;
-  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+  background-color:	#06061f;
+  background-image: url("https://www.transparenttextures.com/patterns/escheresque.png");
   }
 .nav-item:hover{
-background-color: #FFFF00;
+background-color: #2a6073;
 background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 color: 	#000000 !important;
